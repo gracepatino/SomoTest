@@ -29,7 +29,8 @@
 		<name>CustomField</name>
 	</types>
 	<types>
-		<members>test__c</members>
+		<members>Account</members>
+		<members>*</members>
 		<name>CustomObject</name>
 	</types>
 	<types>
